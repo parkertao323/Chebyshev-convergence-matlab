@@ -50,7 +50,4 @@ Next, this project fixes `omega = 20` and compares the computed coefficients wit
 
 ## How to run
 
-Open MATLAB in this folder and run
-
-```matlab
-Chebyshev_Convergence_matlab
+Open MATLAB and run `Chebyshev_Convergence_matlab`.
